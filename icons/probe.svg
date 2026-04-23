@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <!-- Círculo -->
+  <circle cx="12" cy="12" r="10" 
+          fill="none" 
+          stroke="#0A1F44" 
+          stroke-width="1"/>
+
+  <!-- N izquierda -->
+  <path d="M5 16 V8 L7 16 V8" 
+        stroke="#0A1F44" 
+        stroke-width="1" 
+        fill="none"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+
+  <!-- P centrada -->
+  <path d="M9 16 V8 H11.5 A1.5 1.5 0 0 1 11.5 11 H9" 
+        stroke="#0A1F44" 
+        stroke-width="1" 
+        fill="none"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+
+  <!-- N derecha (más separada) -->
+  <path d="M15 16 V8 L17 16 V8" 
+        stroke="#0A1F44" 
+        stroke-width="1" 
+        fill="none"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+</svg>
